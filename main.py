@@ -1,9 +1,9 @@
 from tkinter import *
 from tkinter import ttk
 import numpy as np
-from bubble_sort import bubble_sort
-from quick_sort import quick_sort
-from merge_sort import merge_sort
+from algorithms.bubbleSort import bubble_sort
+from algorithms.quickSort import quick_sort
+from algorithms.mergeSort import merge_sort
 
 
 # Initialising Tkinter
