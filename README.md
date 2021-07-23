@@ -7,4 +7,6 @@
 
 ## Screenshots
 
-![](static/1.png)
+<p align="center">
+  <img src="./static/1.png" />
+</p>
