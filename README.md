@@ -3,7 +3,7 @@
 ## About
 
 - A sorting algorithms visualizer developed using Tkinter.
-- Tkinter is a standard cross platform GUI library Python.
+- Tkinter is a standard cross platform GUI library for python.
 
 ## Screenshot
 
